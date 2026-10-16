@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : LQH32MN220J23L.LibPkg
+
+Section : \\pa-srv0\Общая работа\GORELKIN\!!!_ПРОЕКТЫ\UCP\UCP\LIB\LQH32MN220J23L.lia
+    Section : PCB Library - LQH32MN220J23L.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LQH32MN220J23L On Line 182
+            Warning - 1 : Skipping Token attachedSymbol On Line 233
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LQH32MN220J23L.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 116
+            Warning - 1 : Skipping Token layerContents On Line 138
+            Warning - 1 : Skipping Token layerContents On Line 142
+            Warning - 1 : Skipping Token layerContents On Line 150
+            Warning - 1 : Skipping Token layerContents On Line 158
+        EndSection
+
+        Section : Generating SCH Library - LQH32MN220J23L.SchLib
+        EndSection
+    EndSection
+EndSection

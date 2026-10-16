@@ -1,0 +1,44 @@
+Component Name : MC33972ATEW/R2
+
+Part Count : 2
+
+Part : D?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : D?
+     Pins - (Normal) : 32
+          GND            1              Power
+          SI             2              Input
+          SCLK           3              Input
+          \CS            4              Input
+          SP0            5              Input
+          SP1            6              Input
+          SP2            7              Input
+          SP3            8              Input
+          SP4            25             Input
+          SP5            26             Input
+          SP6            27             Input
+          SP7            28             Input
+          SG0            9              Input
+          SG1            10             Input
+          SG2            11             Input
+          SG3            12             Input
+          SG4            13             Input
+          SG5            14             Input
+          SG6            15             Input
+          SG13           18             Input
+          SG12           19             Input
+          SG11           20             Input
+          SG10           21             Input
+          SG9            22             Input
+          SG8            23             Input
+          SG7            24             Input
+          VPWR           16             Power
+          \WAKE          17             I/O
+          \INT           29             I/O
+          AMUX           30             Output
+          VDD            31             Power
+          SO             32             Output
+          Hidden Pins : 
+

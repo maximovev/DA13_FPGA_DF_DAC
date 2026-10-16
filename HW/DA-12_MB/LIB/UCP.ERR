@@ -1,0 +1,30 @@
+Component Rule Check Report for : O:\Общая_работа\GORELKIN\!!!_ПРОЕКТЫ\UCP\UCP\LIB\UCP.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+DS1020-07-30VBT1A-R (No Description) 
+DS1038-44MBNSiA74   (No Description) 
+STM32F4DISCOVERY    (Missing Pin Number In Sequence : P1.48 [P1.1..P1.50]) 
+EMI_57.3.000-07     (Missing Pin Number In Sequence : 2 [1..6]) 
+STM32F030F4K6       (No Footprint) 
+SQM50034E_GE3       (No Description) 
+LBM2016T101J8       (No Footprint) 
+DMN6068LK3-13       (Missing Pin Number In Sequence : 2 [1..4]) 
+NTD20P06LT4G        (Missing Pin Number In Sequence : 2 [1..4]) 
+EEEFK1A682AM        (No Footprint) 
+Flat_20_PIN         (No Description) 
+DS1013-06MR         (No Description) 
+DS1013-30M          (No Description) 
+DS1013-20M          (No Description) 
+DS1013-06M          (No Description) 
+MJD32CRLG           (Missing Pin Number In Sequence : 2 [1..4]) 
+FPC100x30           (No Description) 
+FPC100x26           (No Description) 
+FPC100x24           (No Description) 
+DS1037-9M           (No Footprint) 
+RT424012            (Duplicate Pin Number : Normal: 21) 
+                    (Missing Pin Number In Sequence : 13,15,16,17,18,19,20,22,23 [11..24]) 
+776087-1            (No Footprint) 
+TX2-12V             (Missing Pin Number In Sequence : 2,6,7,11 [1..12]) 
+C_P_M               (No Footprint) 
