@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Member From Class: ClassName=DAC_4493 Member=J2
+Added Component: Designator=J1(SWITCHCRAFT_57PC5F)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/57PC5F/SWITCHCRAFT/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Switchcraft Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "57PC5F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/57PC5F/SWITCHCRAFT/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R85-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R89-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=R93-2
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=R94-2
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetJ1_G1 Pin=J1-G1
+Added Pin To Net: NetName=NetJ1_G1 Pin=J1-G2
+Added Pin To Net: NetName=NetJ1_G1 Pin=R148-2
+Added Net: Name=NetJ1_G1
+Added Member To Class: ClassName=DAC_4493 Member=Component J1 57PC5F
